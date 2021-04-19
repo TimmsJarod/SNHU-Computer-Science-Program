@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\raghn\source\repos\Clock Project 1\</FILEPATH>
+      <FILENAME>Clock Driver.cpp</FILENAME>
+      <LINE>39</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'AMPM' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>HourSet12::{ctor}</FUNCTION>
+    <DECORATED>??0HourSet12@@QAE@HHH@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\raghn\source\repos\Clock Project 1\</FILEPATH>
+      <FILENAME>Clock Driver.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Time::hour' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Time::{ctor}</FUNCTION>
+    <DECORATED>??0Time@@QAE@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Time::hour</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\raghn\source\repos\Clock Project 1\</FILEPATH>
+      <FILENAME>Clock Driver.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Time::minute' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Time::{ctor}</FUNCTION>
+    <DECORATED>??0Time@@QAE@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Time::minute</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\raghn\source\repos\Clock Project 1\</FILEPATH>
+      <FILENAME>Clock Driver.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Time::second' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Time::{ctor}</FUNCTION>
+    <DECORATED>??0Time@@QAE@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Time::second</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

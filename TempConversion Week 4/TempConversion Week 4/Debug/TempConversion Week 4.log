@@ -1,0 +1,3 @@
+﻿  TempConverter.cpp
+C:\Users\raghn\source\repos\TempConversion Week 4\TempConversion Week 4\TempConverter.cpp(30,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TempConversion Week 4.vcxproj -> C:\Users\raghn\source\repos\TempConversion Week 4\Debug\TempConversion Week 4.exe
