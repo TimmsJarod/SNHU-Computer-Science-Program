@@ -1,0 +1,3 @@
+﻿  LinkedList.cpp
+C:\Users\raghn\source\repos\CS-260\Lab3-2\LinkedList.cpp(206,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\raghn\source\repos\CS-260\Lab3-2\LinkedList.cpp(142): error C4716: 'LinkedList::Search': must return a value

@@ -1,0 +1,7 @@
+﻿  BinarySearchTree.cpp
+  CSVparser.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\raghn\source\repos\CS-260\Lab 6-2\BinarySearchTree.cpp(326): error C4703: potentially uninitialized local pointer variable 'bst' used
+  All 456 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed

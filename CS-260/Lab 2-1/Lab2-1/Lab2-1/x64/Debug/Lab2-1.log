@@ -1,0 +1,8 @@
+﻿  CSVparser.cpp
+C:\Users\raghn\source\repos\CS-260\Lab 2-1\CSVparser.cpp(116,29): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\raghn\source\repos\CS-260\Lab 2-1\CSVparser.cpp(121,28): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\raghn\source\repos\CS-260\Lab 2-1\CSVparser.cpp(203,26): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Lab2-1.cpp
+C:\Users\raghn\source\repos\CS-260\Lab 2-1\Lab2-1.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab2-1.vcxproj -> C:\Users\raghn\source\repos\CS-260\Lab 2-1\Lab2-1\x64\Debug\Lab2-1.exe

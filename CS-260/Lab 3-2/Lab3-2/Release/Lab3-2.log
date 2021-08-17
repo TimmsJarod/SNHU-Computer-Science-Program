@@ -1,0 +1,8 @@
+﻿  LinkedList.cpp
+C:\Users\raghn\source\repos\CS-260\Lab3-2\LinkedList.cpp(251,27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 457 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab3-2.vcxproj -> C:\Users\raghn\source\repos\CS-260\Lab3-2\Release\Lab3-2.exe
